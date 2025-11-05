@@ -4,7 +4,7 @@
 
 # **FloatingDust**
 
-_**Particulas flotantes de VFX Graph rn Unity 6 URP**_
+_**Particulas flotantes de VFX Graph en Unity 6 URP**_
 
 
 </header>
